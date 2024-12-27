@@ -1,0 +1,30 @@
+.expense-date {
+	background-color: rgb(107, 243, 243);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 0.55em 1.5em;
+	gap: 0.3em;
+	flex-basis: 20%;
+}
+.expense-date {
+	margin: 0.3em;
+}
+
+.mb0 {
+	margin: 0;
+}
+.fz-_5 {
+	font-size: 1rem;
+	font-weight: 700;
+}
+.fz-_2 {
+	font-size: 1rem;
+	font-weight: 500;
+	margin: 0 0 0.1em;
+}
+
+.expense-day {
+	font-size: 1.5rem;
+	font-weight: 500;
+}

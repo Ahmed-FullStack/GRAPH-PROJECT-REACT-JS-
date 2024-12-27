@@ -1,0 +1,16 @@
+.expense-list {
+	background-color: hsl(218 58% 20%);
+	padding: 2.8em 1em;
+	display: flex;
+	flex-flow: column;
+	gap: 2em;
+	align-items: center;
+	border-radius: 10px;
+}
+
+.expense-container {
+	width: min(750px, 90%);
+	margin-right: auto;
+	margin-left: auto;
+	background-color: hsl(0 0% 0% / 0);
+}
